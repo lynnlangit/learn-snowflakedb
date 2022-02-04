@@ -9,5 +9,7 @@ What and why - compare AWS Redshift, GCP BigQuery, Databricks
 
 ## Partners
 
+SnowflakeDB has a large number of partners in several categories, such as cloud, services, technology and data.  Notable partners are listed below.  
+
 - for ETL --> Matillion ETL
 - for integration --> HVR (High Volume Replication w/CDC) from FiveTran
