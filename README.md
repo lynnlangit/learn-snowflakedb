@@ -3,7 +3,7 @@ Resources to work with SnowflakeDB. Architecture, from SnowflakeDB user guide, s
  
 SnowflakeDB's closest competitor is AWS Redshift (with 31% of the DW market)
 
-<img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/new-arch.png" width=600>
+<img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/new-arch.png" width=600 align=left>
 
 ## Screencasts and Links
 - SnowflakeDB user guide - https://docs.snowflake.com/en/user-guide-intro.html
