@@ -10,3 +10,4 @@ What and why - compare AWS Redshift, GCP BigQuery, Databricks
 ## Partners
 
 - for ETL --> Matillion ETL
+- for integration --> HVR (High Volume Replication w/CDC) from FiveTran
