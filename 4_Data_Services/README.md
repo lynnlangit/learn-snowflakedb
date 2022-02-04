@@ -1,6 +1,6 @@
 # Data Services
 
-- Authentication and Authorization
+- Authentication [link to patterns](https://resources.snowflake.com/architecture-patterns/snowflake-pattern-security-authentication) and Authorization
 - SnowflakeDB Infrastructure Manager
 - SnowflakeDB Metadata Manager
 - HOW TO: Implement SnowflakeDB Security
