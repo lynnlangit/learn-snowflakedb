@@ -5,6 +5,7 @@ SnowflakeDB's closest competitor is AWS Redshift (with 31% of the DW market)
 
 <img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/arch.png" width=600>
 
-## Screencasts
+## Screencasts and Links
 - SnowflakeDB user guide - https://docs.snowflake.com/en/user-guide-intro.html
 - SnowflakeDB YouTube channel - https://www.youtube.com/user/snowflakecomputing
+- Awesome SnowflakeDB GitHub link list - https://github.com/Snowflake-Labs/awesome-snowflake
