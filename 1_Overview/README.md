@@ -7,6 +7,12 @@ What and why - compare AWS Redshift, GCP BigQuery, Databricks
 - large user community --> 
 - published patterns for common scenarios --> no need to reinvent the wheel
 
+## Product Architecture
+
+The architecture of SnowflakeDB is shown below (from SnowflakeDB's documentation)
+
+<img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/arch.png" width=600> 
+
 ## Partners
 
 SnowflakeDB has a large number of partners in several categories, such as cloud, services, technology and data.  Notable partners are listed below.  
