@@ -13,6 +13,10 @@ The architecture of SnowflakeDB is shown below (from SnowflakeDB's documentation
 
 <img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/arch.png" width=600> 
 
+## Features and Editions
+
+SnowflakeDB has a number of editions, each edition type contains a particular feature set - see this matrix to compare - [link](https://docs.snowflake.com/en/user-guide/intro-editions.html#feature-edition-matrix)
+
 ## Partners
 
 SnowflakeDB has a large number of partners in several categories, such as cloud, services, technology and data.  Notable partners are listed below.  
