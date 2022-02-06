@@ -1,7 +1,9 @@
 # Learn SnowflakeDB
-Resources to work with SnowflakeDB. Architecture, from SnowflakeDB user guide, shown below.  SnowflakeDB has 44% of the cloud DW (data warehouse) market - [link](https://www.slintel.com/tech/data-warehousing/snowflake-market-share#).   
- 
-SnowflakeDB's closest competitor is AWS Redshift (with 31% of the DW market)
+Resources to work with SnowflakeDB  
+
+- Architecture, from SnowflakeDB user guide, shown below
+- SnowflakeDB has 44% of the cloud DW (data warehouse) market - [link](https://www.slintel.com/tech/data-warehousing/snowflake-market-share#).   
+- SnowflakeDB's closest competitor is AWS Redshift (with 31% of the DW market)
 
 <img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/new-arch.png" width=600 align=left>
 
