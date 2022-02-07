@@ -1,5 +1,7 @@
 # Learn SnowflakeDB
 
+SnowflakeDB is a cloud-native SaaS data platform that supports ad-hoc, data warehouse and other workloads.  It runs on AWS, Azure or GCP.  To learn about the origins, see this wikipedia article - [link](https://en.wikipedia.org/wiki/Snowflake_Inc.)
+
 <img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/new-arch.png" width=800>
 
 Resources to work with SnowflakeDB  
