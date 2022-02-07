@@ -2,8 +2,8 @@
 
 SnowflakeDB includes a number of useful data import options:   
 - Web UI has 100 MB file import limit
-- SnowflakeDB cli (for AWS S3 and others)
-- Snowpipe Streams
+- SnowflakeDB cli (for AWS S3 and others) - example - https://docs.snowflake.com/en/user-guide/data-load-external-tutorial.html
+- Snowpipe Streams - user guide - https://docs.snowflake.com/en/user-guide/data-load-snowpipe.html
 - File Ingest - example loading Hacker News from @hoffa - https://medium.com/snowflake/loading-all-hacker-news-comments-into-snowflake-in-less-than-1-minute-728100f38272
 - Understand differences between star and snowflake schemas - http://www.differencebetween.net/technology/difference-between-star-and-snowflake-schema/
 
