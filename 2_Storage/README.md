@@ -1,6 +1,6 @@
 # Storage and Files
 
-Many Data Storage Options  
+SnowflakeDB includes a number of useful data import options:   
 - Web UI has 100 MB file import limit
 - SnowflakeDB cli (for AWS S3 and others)
 - Snowpipe Streams
