@@ -2,10 +2,10 @@
 
 SnowflakeDB is a cloud-native SaaS data platform that supports ad-hoc, data warehouse and other workloads.  It runs on AWS, Azure or GCP.  To learn about the origins, see this wikipedia article - [link](https://en.wikipedia.org/wiki/Snowflake_Inc.)
 - SnowflakeDB has 44% of the cloud DW (data warehouse) market - [link](https://www.slintel.com/tech/data-warehousing/snowflake-market-share#).   
-- SnowflakeDB's closest competitor is AWS Redshift (with 31% of the DW market)
-- pricing - https://www.snowflake.com/pricing/
-- editions / feature matrix - https://docs.snowflake.com/en/user-guide/intro-editions.html#feature-edition-matrix
-- supported cloud regions - https://docs.snowflake.com/en/user-guide/intro-regions.html
+- SnowflakeDB's closest competitor is AWS Redshift (with 31% of the DW market) - compete guide - [link](https://wikibon.com/breaking-analysis-snowflake-competes-giants-cloud-database/)
+  - pricing - https://www.snowflake.com/pricing/
+  - editions / feature matrix - https://docs.snowflake.com/en/user-guide/intro-editions.html#feature-edition-matrix
+  - supported cloud regions - https://docs.snowflake.com/en/user-guide/intro-regions.html
 
 <img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/new-arch.png" width=800>
 
