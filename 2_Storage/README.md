@@ -6,6 +6,7 @@
 - Snowpipe Streams
 - Compare file import options
 - Scenario: Import files and data into SnowflakeDB
+- Understand differences between star and snowflake schemas - http://www.differencebetween.net/technology/difference-between-star-and-snowflake-schema/
 
 ## Data Lifecycle
 
