@@ -4,7 +4,7 @@ What and why - compare AWS Redshift, GCP BigQuery, Databricks
 
 - focus on usability --> easy to use
 - just-right documentation --> scannable, consumable
-- large user community --> 
+- large user community --> @hoffa and more
 - published patterns for common scenarios --> no need to reinvent the wheel
 
 ## Product Architecture
