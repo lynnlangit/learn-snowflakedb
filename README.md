@@ -15,6 +15,6 @@ Resources to work with SnowflakeDB
 ## Screencasts and Links
 - SnowflakeDB user guide - [link](https://docs.snowflake.com/en/user-guide-intro.html)
 - 8 min "What is SnowflakeDB?" demo - [link](https://www.youtube.com/watch?v=xojAXXRo_S0)
-- 15 min "How SnowflakeDB stores data" screencast - [link](https://www.youtube.com/watch?v=dxrEHqMFUWI)
+- 15 min "How SnowflakeDB Stores Table Data" screencast - [link](https://www.youtube.com/watch?v=dxrEHqMFUWI)
 - SnowflakeDB YouTube channel - [link](https://www.youtube.com/user/snowflakecomputing)
 - Awesome SnowflakeDB GitHub link list - [link](https://github.com/Snowflake-Labs/awesome-snowflake)
