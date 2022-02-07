@@ -1,11 +1,10 @@
 # Storage and Files
 
-- Data Storage Options
-- File Ingest - example loading Hacker News from @hoffa - https://medium.com/snowflake/loading-all-hacker-news-comments-into-snowflake-in-less-than-1-minute-728100f38272
-- SnowflakeDB cli
+Many Data Storage Options  
+- Web UI has 100 MB file import limit
+- SnowflakeDB cli (for AWS S3 and others)
 - Snowpipe Streams
-- Compare file import options
-- Scenario: Import files and data into SnowflakeDB
+- File Ingest - example loading Hacker News from @hoffa - https://medium.com/snowflake/loading-all-hacker-news-comments-into-snowflake-in-less-than-1-minute-728100f38272
 - Understand differences between star and snowflake schemas - http://www.differencebetween.net/technology/difference-between-star-and-snowflake-schema/
 
 ## Data Lifecycle
