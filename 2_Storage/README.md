@@ -1,7 +1,7 @@
 # Storage and Files
 
 - Data Storage Options
-- File Ingest
+- File Ingest - example loading Hacker News from @hoffa - https://medium.com/snowflake/loading-all-hacker-news-comments-into-snowflake-in-less-than-1-minute-728100f38272
 - SnowflakeDB cli
 - Snowpipe Streams
 - Compare file import options
