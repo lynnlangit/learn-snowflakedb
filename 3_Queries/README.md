@@ -12,4 +12,5 @@ SnowflakeDB uses one or more virtual data warehouses to process query workloads.
 
 - Article: Top 3 Query Performance improvement Tips - https://medium.com/@jryan999/top-3-snowflake-performance-tuning-tactics-894c573731d2
 - Tool: Snoptimizer, evaluates virtual warehouse usage patterns - https://snowflakesolutions.net/what-is-snoptimizer/
+- Article: SnowflakeDB data types explained - https://hevodata.com/learn/snowflake-data-types/
 - 5 hours YouTube playlist - SQL context functions for SnowflakeDB - https://www.youtube.com/playlist?list=PLba2xJ7yxHB6LbOdzpqRB0WQE7IPWbbSy
