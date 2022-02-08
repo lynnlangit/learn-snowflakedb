@@ -3,7 +3,7 @@
 - Authentication [link to patterns](https://resources.snowflake.com/architecture-patterns/snowflake-pattern-security-authentication) and Authorization
 - SnowflakeDB Infrastructure Manager
 - SnowflakeDB Metadata Manager
-- HOW TO: Implement SnowflakeDB Security
+- HOW TO: Implement SnowflakeDB Security - overview of security available - [link](https://docs.snowflake.com/en/user-guide/admin-security.html)
 - SCENARIO: Implement SnowflakeDB Security
 
 ## Network Security Architecture
