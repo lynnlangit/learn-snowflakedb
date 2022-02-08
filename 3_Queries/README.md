@@ -4,7 +4,7 @@ SnowflakeDB uses one or more virtual data warehouses to process query workloads.
 
 - Optimizing for SQL Query workloads
 - Using SQL UDFs - [link to example](https://docs.snowflake.com/en/sql-reference/udf-overview.html#overloading-function-names) 
-- Useing SQL Stored Procs
+- Useing SQL Stored Procs - [when to use StoredProc vs UDF](https://docs.snowflake.com/en/sql-reference/stored-procedures-overview.html)
 - Using tools, such as caching and others
 - Scenario: Understand and Optimize SQL Queries
 
