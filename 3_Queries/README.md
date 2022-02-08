@@ -1,8 +1,10 @@
 # Query Processing
 
-- SQL Queries
-- Aggregate SQL Queries
-- Optimize SQL Queries
+SnowflakeDB uses one or more virtual data warehouses to process query workloads.  Properly configuring these VWHs is key to TCO. Considerations include the following:  
+
+- Optimizing for SQL Query workloads
+- Optimizing for aggregate SQL Quey workfloads
+- Using tools, such as caching and others
 - Scenario: Understand and Optimize SQL Queries
 
 ## Links
