@@ -1,10 +1,10 @@
 # Architectures
 
-- SnowflakeDB data lifecycle (concepts)
+- SnowflakeDB data lifecycle (concepts) - ingest with partner Matillion - [link](https://resources.snowflake.com/architecture-patterns/snowflake-pattern-ingestion-ingestion-from-oracle-exadata-using-matillion)
 - Use SnowflakeDB for Data Warehousing
 - Use SnowflakeDB for Data Pipelines
 - Use SnowflakeDB for Data Lake (House)
-- SCENARIO: Design & build solutions with SnowflakeDb
+- SCENARIO: Design & build solutions with SnowflakeDB
 
 
 ## Links
