@@ -4,7 +4,7 @@
 - SnowflakeDB Infrastructure Manager
 - SnowflakeDB Metadata Manager
 - HOW TO: Implement SnowflakeDB Security - overview of security available - [link](https://docs.snowflake.com/en/user-guide/admin-security.html)
-- SCENARIO: Implement SnowflakeDB Security
+- Managing governance - https://docs.snowflake.com/en/user-guide-admin-governance.html
 
 ## Network Security Architecture
 
