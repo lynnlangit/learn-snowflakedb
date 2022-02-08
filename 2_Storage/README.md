@@ -11,6 +11,7 @@ SnowflakeDB includes a number of useful data import options:
 
 - Bulk loading and stage tables (advanced - one hour), also includes warehousing for loading scenarios - https://www.youtube.com/watch?v=lI5OQPjuj-8
 - Snowpipe streams in detail (30 minutes), includes understanding pipe costs - https://www.youtube.com/watch?v=PNK49SJvXjE
+- Step-by-Step create external AWS S3 table (40 minutes) - https://www.youtube.com/watch?v=w9BQsOlJc5s
 
 ## Data Lifecycle
 
