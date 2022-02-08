@@ -3,7 +3,8 @@
 SnowflakeDB uses one or more virtual data warehouses to process query workloads.  Properly configuring these VWHs is key to TCO. Considerations include the following:  
 
 - Optimizing for SQL Query workloads
-- Optimizing for aggregate SQL Quey workfloads
+- Using SQL UDFs - [link to example](https://docs.snowflake.com/en/sql-reference/udf-overview.html#overloading-function-names) 
+- Useing SQL Stored Procs
 - Using tools, such as caching and others
 - Scenario: Understand and Optimize SQL Queries
 
