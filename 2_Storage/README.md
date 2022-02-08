@@ -7,6 +7,10 @@ SnowflakeDB includes a number of useful data import options:
 - File Ingest - example loading Hacker News from @hoffa - https://medium.com/snowflake/loading-all-hacker-news-comments-into-snowflake-in-less-than-1-minute-728100f38272
 - Understand differences between star and snowflake schemas - http://www.differencebetween.net/technology/difference-between-star-and-snowflake-schema/
 
+## Detail Links
+
+- Bulk loading and stage tables (advanced - one hour) - https://www.youtube.com/watch?v=lI5OQPjuj-8
+
 ## Data Lifecycle
 
 - SnowflakeDB data loading options summarized on one page - [link](https://docs.snowflake.com/en/user-guide/data-load-overview.html)
