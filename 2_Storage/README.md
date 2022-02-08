@@ -18,4 +18,4 @@ SnowflakeDB includes a number of useful data import options:
 - SnowflakeDB data loading options summarized on one page - [link](https://docs.snowflake.com/en/user-guide/data-load-overview.html)
 - Shown below, from SnowflakeDB documentation - [link](https://docs.snowflake.com/en/user-guide/data-lifecycle.html)
 
-<img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/lifecycle.png">
+<img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/lifecycle.png" width=800>
