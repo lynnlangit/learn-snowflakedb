@@ -14,5 +14,6 @@ SnowflakeDB has a large number of patterns/best practices whitepapers available 
 ## Partners and Open Source Libraries
 
 - Ingest/ETL with partner Matillion - [link](https://resources.snowflake.com/architecture-patterns/snowflake-pattern-ingestion-ingestion-from-oracle-exadata-using-matillion)
-- Use open source library Apache Spark connector with SnowflakeDB -[link](https://github.com/snowflakedb/spark-snowflake)
+- Use open source library Python connector for SnowflakeDB -[link](https://github.com/snowflakedb/snowflake-connector-python)
+- Use open source library Apache Spark data source connector with SnowflakeDB -[link](https://github.com/snowflakedb/spark-snowflake)
 
