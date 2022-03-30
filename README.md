@@ -2,7 +2,9 @@
 
 <img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/new-arch.png" width=600 align=right>
 
-SnowflakeDB is a cloud-native SaaS data platform that supports ad-hoc, data warehouse and other workloads.  It runs on AWS, Azure or GCP.  To learn about the origins, see this wikipedia article - [link](https://en.wikipedia.org/wiki/Snowflake_Inc.)
+SnowflakeDB is a cloud-native SaaS data platform that supports ad-hoc, data warehouse and other workloads.  It runs on AWS, Azure or GCP.  To learn about the origins, see this wikipedia article - [link](https://en.wikipedia.org/wiki/Snowflake_Inc.).   
+
+This Repo is a companion to my LinkedIn Learning course **"Learning SnowflakeDB"** --> https://www.linkedin.com/learning/learning-snowflakedb
 
 - SnowflakeDB has 44% of the cloud DW (data warehouse) market - [link](https://www.slintel.com/tech/data-warehousing/snowflake-market-share#).   
 - SnowflakeDB's closest competitor is AWS Redshift (with 31% of the DW market) 
