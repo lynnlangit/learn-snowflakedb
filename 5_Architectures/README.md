@@ -17,3 +17,7 @@ SnowflakeDB has a large number of patterns/best practices whitepapers available 
 - Use open source library Python connector for SnowflakeDB -[link](https://github.com/snowflakedb/snowflake-connector-python)
 - Use open source library Apache Spark data source connector with SnowflakeDB -[link](https://github.com/snowflakedb/spark-snowflake)
 
+## Competiion
+
+- Snowpark (from SnowflakeDB) vs DataBricks -[link](https://medium.com/codex/snowpark-the-databricks-killer-199a6ee9defc)
+
