@@ -4,10 +4,11 @@ SnowflakeDB has a large number of integrated tools/libraries for AI/ML --> [link
 
 ## Patterns, Partners and Open Source Libraries
 
-<img src="https://quickstarts.snowflake.com/guide/intro_to_machine_learning_with_snowpark_ml_for_python/img/40f3a839db444534.png" width=500>
+<img src="https://quickstarts.snowflake.com/guide/intro_to_machine_learning_with_snowpark_ml_for_python/img/c4f1c8add2c70533.png" width=800>
 
 - 🧱 Use SnowflakeDB for Data Science - [link](https://resources.snowflake.com/architecture-patterns/005-data-science-data-science-with-snowflake)
-- :book: Tutorial "Intro to Machine Learning with Snowpark ML for Python" - [link](https://quickstarts.snowflake.com/guide/intro_to_machine_learning_with_snowpark_ml_for_python/index.html) and image (from SnowflakeDB documentation) shown below
+- :book: Tutorial "Intro to Machine Learning with Snowpark ML for Python" - [link](https://quickstarts.snowflake.com/guide/intro_to_machine_learning_with_snowpark_ml_for_python/index.html)
+  -   solution architecture image (from SnowflakeDB documentation) shown above
 - :book: Deploy GenAI Pattern - [link](https://www.snowflake.com/blog/snowpark-container-services-deploy-genai-full-stack-apps/)
 - :book: Use open source library **Python connector** for SnowflakeDB - [link](https://github.com/snowflakedb/snowflake-connector-python)
 - :book: Use open source library **Apache Spark data source connector** with SnowflakeDB - [link](https://github.com/snowflakedb/spark-snowflake)
