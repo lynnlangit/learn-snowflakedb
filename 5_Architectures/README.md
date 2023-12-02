@@ -11,6 +11,10 @@ SnowflakeDB has a large number of patterns/best practices whitepapers available 
 - 🧱 Use DV (Data Vault) modeling - [link](https://www.snowflake.com/blog/support-multiple-data-modeling-approaches-with-snowflake/)
 - 🧱 Review Data Cloud Workload Guides - [link](https://www.snowflake.com/guides/)
 
+## Patterns for Bioinformatics
+
+- 🧱 Use SnowflakeDB for Bioinformatics/Genomic Analysis at scale (blog) - [link](https://www.snowflake.com/blog/leveraging-snowflake-enable-genomic-analytics-scale/)
+
 ## Partners and Open Source Libraries
 
 - 🧰 Ingest/ETL with partner **Matillion** - [link](https://resources.snowflake.com/architecture-patterns/snowflake-pattern-ingestion-ingestion-from-oracle-exadata-using-matillion)
