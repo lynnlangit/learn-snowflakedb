@@ -6,11 +6,9 @@ SnowflakeDB has a large number of integrated tools/libraries for AI/ML --> [link
 
 CortexAI (from SnowflakeDB site) allows you to... *"quickly analyze data and build generative AI applications using fully managed LLMs, vector search and fully managed text-to-SQL services. Enable multiple users to use AI models with no-code, SQL and Python interfaces."*  Shown below is the tech stack
 
-<img src="xxx">
+<img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/cortexai-stack.png">
 
 - Learn more --> https://www.snowflake.com/en/data-cloud/cortex/
-
-- 
 
 ## Patterns, Partners and Open Source Libraries
 
