@@ -4,7 +4,7 @@ SnowflakeDB has a large number of integrated tools/libraries for AI/ML --> [link
 
 ## Snowpark Python Worksheets
 
-From SnowflakeDB [docs](https://docs.snowflake.com/en/user-guide/ui-snowsight-quick-tour): "In Snowsight, you can perform data analysis and engineering tasks, monitor query and data loading and transformation activity, explore your Snowflake database objects, and administer your Snowflake database, including managing the cost and adding users and roles. See example screenshot after features list. Snowsight lets you:
+From SnowflakeDB [docs](https://docs.snowflake.com/en/user-guide/ui-snowsight-quick-tour): *"In Snowsight, you can perform data analysis and engineering tasks, monitor query and data loading and transformation activity, explore your Snowflake database objects, and administer your Snowflake database, including managing the cost and adding users and roles. See example screenshot after features list. Snowsight lets you:*
 
 - Build, test, and deploy Snowpark Python Worksheets.
 - Write queries and code, and take advantage of autocomplete for database objects and SQL functions in worksheets.
@@ -20,7 +20,7 @@ From SnowflakeDB [docs](https://docs.snowflake.com/en/user-guide/ui-snowsight-qu
 - Manage and create Snowflake users and roles and visualize a hierarchy of roles and their grants.
 - Perform data governance tasks like masking data, adding policies, and reviewing the governance of your data.
 
-<img src="ccc">
+<kbd><img src="https://github.com/lynnlangit/learn-snowflakedb/blob/main/images/snowsight.png"></kbd>
 
 ## GenAI for SnowflakeDB
 
