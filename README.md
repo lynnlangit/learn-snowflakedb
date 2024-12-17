@@ -4,10 +4,9 @@
 
 SnowflakeDB is a cloud-native SaaS data platform that supports ad-hoc, data warehouse and other workloads.  It runs on AWS, Azure or GCP.  To learn about the origins, see this wikipedia article - [link](https://en.wikipedia.org/wiki/Snowflake_Inc.).   
 
-This Repo is a companion to my LinkedIn Learning course **"Learning SnowflakeDB"** --> https://www.linkedin.com/learning/learning-snowflakedb
+This Repo is a companion to my LinkedIn Learning course **"Learning SnowflakeDB"** --> [link](https://www.linkedin.com/learning/learning-snowflakedb)
 
-- SnowflakeDB has 44% of the cloud DW (data warehouse) market - [link](https://www.slintel.com/tech/data-warehousing/snowflake-market-share#).   
-- SnowflakeDB's closest competitor is AWS Redshift (with 31% of the DW market) 
+- SnowflakeDB's % of the cloud DW (data warehouse) market - [link](https://www.slintel.com/tech/data-warehousing/snowflake-market-share#).   
   - **Compare** - [link](https://wikibon.com/breaking-analysis-snowflake-competes-giants-cloud-database/)
   - **Pricing** - [link](https://www.snowflake.com/pricing/)
   - **Editions** / feature matrix - [link](https://docs.snowflake.com/en/user-guide/intro-editions.html#feature-edition-matrix)
@@ -17,7 +16,7 @@ This Repo is a companion to my LinkedIn Learning course **"Learning SnowflakeDB"
 
 ## Resources to work with SnowflakeDB  
 
-### Link Lists
+### List of Related Links
 
 - :octocat: Awesome SnowflakeDB GitHub link list - [link](https://github.com/Snowflake-Labs/awesome-snowflake)
 - :octocat: SnowflakeDB GitHub link list of demo notebooks - [link](https://github.com/Snowflake-Labs/snowflake-demo-notebooks)
