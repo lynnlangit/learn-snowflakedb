@@ -24,7 +24,6 @@ This Repo is a companion to my LinkedIn Learning course **"Learning SnowflakeDB"
 ### Articles
 
 - 📝 Medium Article "Snowflake - the Data Cloud" (great infographics!) - [link](https://medium.com/snowflake/snowflake-the-cloud-data-platform-5d04fd13afb6)
-- 🧰 SnowflakeDB hands-on-lab guide - [link](https://s3.amazonaws.com/snowflake-workshop-lab/Snowflake_free_trial_LabGuide.pdf)
 - 📝 Getting started guide for SnowflakeDB - [link](https://docs.snowflake.com/en/user-guide-getting-started.html)
 - :octocat: SnowflakeDB open source tools on GitHub - [link](https://github.com/Snowflake-Labs)
 
