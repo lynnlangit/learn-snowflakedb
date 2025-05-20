@@ -1,6 +1,6 @@
 # Running the MNIST TensorFlow Example in Snowflake
 
-This document provides guidance on how to run the `mnist.py` script, which uses TensorFlow for the MNIST handwritten digit recognition task, within a Snowflake environment.
+How to run the `mnist.py` script, which uses TensorFlow for the MNIST handwritten digit recognition task, within a Snowflake environment.
 
 ## Prerequisites
 
