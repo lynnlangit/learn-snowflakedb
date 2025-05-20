@@ -34,3 +34,14 @@ This Repo is a companion to my LinkedIn Learning course **"Learning SnowflakeDB"
 - 📺 15 min "How SnowflakeDB Stores Table Data" screencast - [link](https://www.youtube.com/watch?v=dxrEHqMFUWI)
 - 📺 SnowflakeDB YouTube channel - [link](https://www.youtube.com/user/snowflakecomputing)
 
+## Latest SnowflakeDB Product and Feature Releases (2025)
+
+*   **Focus on AI and AI-driven Solutions:**
+    *   Ongoing developments in Agentic AI, particularly for Security Operations Centers (announced May 2025).
+    *   Snowflake highlights significant ROI from AI investments for early adopters (research published April 2025).
+    *   New AI-powered solutions for the Automotive industry (announced May 2025).
+*   **Commitment to Open Standards and Data Governance:**
+    *   Introduction of new Apache Iceberg™ innovations, enhancing open data capabilities and AI-readiness (announced April 2025).
+*   **Enhanced Security and Compliance:**
+    *   Achieved Department of Defense (DoD) IL5 Authorization, reinforcing its position for government and defense customers (announced April 2025).
+
