@@ -45,3 +45,13 @@ This Repo is a companion to my LinkedIn Learning course **"Learning SnowflakeDB"
 *   **Enhanced Security and Compliance:**
     *   Achieved Department of Defense (DoD) IL5 Authorization, reinforcing its position for government and defense customers (announced April 2025).
 
+## Generative AI Capabilities
+
+*   **Snowflake Cortex AI:** Access Large Language Models (LLMs) and develop AI-powered applications and agents.
+*   **Snowflake ML:** Streamline machine learning model development with integrated MLOps capabilities.
+*   **Snowpark:** Train ML models using familiar languages like Python, Java, and Scala with seamless data access.
+*   **Streamlit:** Build and share interactive web applications for ML models and data insights directly from Python scripts.
+*   **Document AI:** Leverage intelligent document processing to extract insights from unstructured documents.
+*   **Unstructured Data Handling:** Efficiently manage and process various unstructured data types (images, audio, video, PDFs) for AI/ML workloads.
+*   **Strategic Partnerships:** Collaborate with industry leaders, such as Microsoft, to integrate services like OpenAI models.
+
