@@ -47,7 +47,7 @@ This Repo is a companion to my LinkedIn Learning course **"Learning SnowflakeDB"
 
 ## Generative AI Capabilities
 
-*   **Snowflake Cortex AI:** Access Large Language Models (LLMs) and develop AI-powered applications and agents.
+*   **[Snowflake Cortex AI](https://docs.snowflake.com/en/user-guide/cortex-ai.html):** Access Large Language Models (LLMs) and develop AI-powered applications and agents.
 *   **Snowflake ML:** Streamline machine learning model development with integrated MLOps capabilities.
 *   **Snowpark:** Train ML models using familiar languages like Python, Java, and Scala with seamless data access.
 *   **Streamlit:** Build and share interactive web applications for ML models and data insights directly from Python scripts.
